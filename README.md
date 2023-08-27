@@ -6,13 +6,20 @@
 
 ### Linguagens que Estudei/Estudo
 
-- HTML 5
-- CSS
-- Java
-- C
+<a>
+  <img src="https://img.icons8.com/color/452/html-5--v1.png" alt="HTML 5" width="60">
+</a>
 
 <a>
-  <img src="https://img1.gratispng.com/20180426/zue/kisspng-web-development-html-responsive-web-design-cascadi-5ae19e6b1412f6.0023511515247355950822.jpg" width="60">
+  <img src="https://img.icons8.com/color/452/css3.png" alt="CSS" width="60">
+</a>
+
+<a>
+  <img src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" alt="Java" width="60">
+</a>
+
+<a>
+  <img src="https://img.icons8.com/color/452/c-programming.png" alt="C" width="60">
 </a>
 
 ### Redes Sociais
@@ -22,5 +29,5 @@
 </a>
 
 <a href="https://www.instagram.com/skcarlosxxz/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="60">
 </a>
