@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML, CSS, Java.
 - 💹 Estudando para trabalhar na parte de Full Stack.
 
-### Linguagens que Estudei/Estudo
+### Estudei/Estudo
 
 <div style="display: flex; gap: 20px;">
   <a>
