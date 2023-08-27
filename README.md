@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML,CSS, Java
 - 💹 Estudando para trabalhar na parte de Full Stack
 
-<a 
+<a>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" width="60">
 </a>
 
