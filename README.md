@@ -9,5 +9,5 @@
 </a>
 
 <a href="https://www.instagram.com/skcarlosxxz/">
-  <img src="https://e7.pngegg.com/pngimages/742/163/png-clipart-logo-black-and-white-youtube-dog-grooming-logo-ideas-photography-logo.png" alt="Instagram Profile" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png="60">
 </a>
