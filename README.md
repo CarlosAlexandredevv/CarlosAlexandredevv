@@ -5,5 +5,5 @@
 - 💹 Estudando para trabalhar na parte de Full Stack
 
 <a href="https://www.linkedin.com/in/carlos-alexandre-375a9227b/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" width="7">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" width="60">
 </a>
