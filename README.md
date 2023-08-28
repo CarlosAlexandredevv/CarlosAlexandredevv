@@ -12,7 +12,7 @@
   </a>
 
   <a>
-    <img src="https://img.icons8.com/color/452/css3.png" alt="CSS" width="60">
+    <img src="https://img.icons8.com/color/452/css3.png" " width="60">
   </a>
 
   <a>
