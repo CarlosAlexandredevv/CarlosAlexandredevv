@@ -7,20 +7,20 @@
 ### Estudei/Estudo:
 
 <div style="display: flex; gap: 20px;">
-  <a>
+  
+  <a href = "https://pt.wikipedia.org/wiki/HTML">
     <img src="https://img.icons8.com/color/452/html-5--v1.png" alt="HTML 5" width="60"> 
-    href="https://pt.wikipedia.org/wiki/HTML"
   </a>
 
-  <a>
+  <a href = "https://pt.wikipedia.org/wiki/Cascading_Style_Sheets" >
     <img src="https://img.icons8.com/color/452/css3.png" alt = "CSS" width="60">
   </a>
 
-  <a>
+  <a href = "https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)" >
     <img src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" alt="Java" width="60">
   </a>
 
-  <a>
+  <a href = "https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" >
     <img src="https://img.icons8.com/color/452/c-programming.png" alt="C" width="60">
   </a>
 </div>
