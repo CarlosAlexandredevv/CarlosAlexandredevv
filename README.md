@@ -8,7 +8,8 @@
 
 <div style="display: flex; gap: 20px;">
   <a>
-    <img src="https://img.icons8.com/color/452/html-5--v1.png" alt="HTML 5" width="60" href="https://pt.wikipedia.org/wiki/HTML">
+    <img src="https://img.icons8.com/color/452/html-5--v1.png" alt="HTML 5" width="60"> 
+    href="https://pt.wikipedia.org/wiki/HTML"
   </a>
 
   <a>
