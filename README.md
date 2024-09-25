@@ -1,7 +1,7 @@
 
 <h1>I am Carlos!👨🏿‍💻</h1> 
 
-<p align="center">I'm a front-end developer in constant evolution, determined to expand my expertise and become a full-stack developer. I have a true passion for exploring new technologies, tools, and techniques, and I'm always seeking challenges that allow me to create innovative and high-quality solutions.</p>&nbsp;
+<p align="center">I'm a full-stack developer in constant evolution, determined to expand my expertise and enhance my skills across both front-end and back-end technologies. I have a true passion for exploring new tools, technologies, and techniques, and I'm always seeking challenges that allow me to create innovative and high-quality solutions.</p>&nbsp;
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlexandredevv&layout=compact&theme=blue-green)     | ![Carlos Status](https://github-readme-stats.vercel.app/api?username=CarlosAlexandredevv&show_icons=false&theme=blue-green&hiding_specific_stats) |
 | ---      | ---       |
@@ -20,6 +20,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
@@ -39,6 +42,7 @@
 
 #### Databases:
 
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ## Contacts:
